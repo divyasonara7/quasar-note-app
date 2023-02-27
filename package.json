@@ -6,6 +6,9 @@
   "author": "divyasonara7 <divyasonara7105@gmail.com>",
   "private": true,
   "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "build:pwa": "quasar build -m pwa",
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
