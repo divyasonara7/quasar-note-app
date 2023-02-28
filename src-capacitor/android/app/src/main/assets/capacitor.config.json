@@ -1,10 +1,7 @@
 {
-  "appId": "org.quasar.todo.com",
-  "appName": "todo",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "www",
-  "server": {
-    "url": "http://192.168.0.174:9501"
-  }
+	"appId": "org.quasar.todo.com",
+	"appName": "todo",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "www"
 }
