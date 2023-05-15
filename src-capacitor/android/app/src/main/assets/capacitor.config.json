@@ -1,7 +1,0 @@
-{
-	"appId": "org.quasar.todo.com",
-	"appName": "todo",
-	"bundledWebRuntime": false,
-	"npmClient": "npm",
-	"webDir": "www"
-}
