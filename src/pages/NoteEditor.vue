@@ -23,7 +23,7 @@
 
         <q-card flat bordered class="q-mt-sm">
           <q-editor
-            v-model="note.content"
+            :modelValue="note.content ? note.content : ''"
             min-height="5rem"
             @update:modelValue="onContentChange"
           />
