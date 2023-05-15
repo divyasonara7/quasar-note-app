@@ -10,7 +10,8 @@
     "build": "quasar build",
     "build:pwa": "quasar build -m pwa",
     "test": "echo \"No test specified\" && exit 0",
-    "watch": "json-server --watch db.json"
+    "watch": "json-server --watch db.json",
+    "start": "node server.js"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
