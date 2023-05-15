@@ -1,0 +1,1 @@
+import{a3 as e,a5 as t,an as o,aO as r}from"./index.d397fa6f.js";const s={},n={class:"q-mr-auto q-ml-auto",style:{"max-width":"700px"}};function c(a,l){return t(),o("div",n,[r(a.$slots,"default")])}var d=e(s,[["render",c]]);export{d as C};
