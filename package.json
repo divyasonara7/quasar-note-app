@@ -1,5 +1,5 @@
 {
-  "name": "quasar-todo",
+  "name": "quasar-note",
   "version": "0.0.1",
   "description": "A Quasar Project",
   "productName": "todo",
@@ -9,7 +9,8 @@
     "dev": "quasar dev",
     "build": "quasar build",
     "build:pwa": "quasar build -m pwa",
-    "test": "echo \"No test specified\" && exit 0"
+    "test": "echo \"No test specified\" && exit 0",
+    "watch": "json-server --watch db.json"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
